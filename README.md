@@ -1,6 +1,7 @@
 # fabscroll_v1_010
  esp32 p10 display + remote fetch text
 
+for copenhagen fablab 2024
 
 readme/notes for using the p10 led matrix scroller
 
